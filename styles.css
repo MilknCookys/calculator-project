@@ -26,9 +26,10 @@ body {
   justify-content: end;
   align-items: center;
   margin-right: 5px;
+  flex-wrap: nowrap;
 
   font-family: "Menlo";
-  font-size: 120%;
+  font-size: 80%;
 }
 
 #navbarContainer {
